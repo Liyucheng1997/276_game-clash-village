@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>部落冲突 · Clash Village</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<canvas id="game"></canvas>
+
+<!-- 顶部 HUD -->
+<div id="hud-top">
+  <div class="res-group">
+    <div class="res-bar gold" title="金币">
+      <span class="res-icon">🪙</span>
+      <div class="res-fill-wrap"><div class="res-fill" id="gold-fill"></div></div>
+      <span class="res-num" id="gold-num">0</span>
+    </div>
+    <div class="res-bar elixir" title="圣水">
+      <span class="res-icon">💧</span>
+      <div class="res-fill-wrap"><div class="res-fill" id="elixir-fill"></div></div>
+      <span class="res-num" id="elixir-num">0</span>
+    </div>
+    <div class="res-bar gems" title="宝石">
+      <span class="res-icon">💎</span>
+      <span class="res-num" id="gem-num">0</span>
+    </div>
+  </div>
+  <div class="right-group">
+    <div class="badge" id="trophy-badge" title="奖杯">🏆 <span id="trophy-num">0</span></div>
+    <div class="badge" id="level-badge" title="经验等级">⭐ <span id="level-num">1</span></div>
+    <button class="icon-btn" id="btn-sound" title="声音">🔊</button>
+  </div>
+</div>
+
+<!-- 建筑工人状态 -->
+<div id="builder-bar">
+  <div class="badge" id="builder-badge">👷 <span id="builder-num">2/2</span></div>
+  <div id="builder-jobs"></div>
+</div>
+
+<!-- 底部按钮 -->
+<div id="hud-bottom">
+  <button class="big-btn" id="btn-army"><span class="bb-icon">⚔️</span><span>部队</span></button>
+  <button class="big-btn" id="btn-shop"><span class="bb-icon">🛒</span><span>商店</span></button>
+  <button class="big-btn attack" id="btn-attack"><span class="bb-icon">🔥</span><span>进攻！</span></button>
+</div>
+
+<!-- 建筑信息面板 -->
+<div id="panel-building" class="panel hidden">
+  <div class="panel-title"><span id="pb-name">建筑</span><button class="close-x" data-close="panel-building">✕</button></div>
+  <div id="pb-stats" class="pb-stats"></div>
+  <div id="pb-actions" class="pb-actions"></div>
+</div>
+
+<!-- 商店 -->
+<div id="panel-shop" class="panel modal hidden">
+  <div class="panel-title"><span>🛒 商店</span><button class="close-x" data-close="panel-shop">✕</button></div>
+  <div class="shop-tabs" id="shop-tabs"></div>
+  <div class="shop-grid" id="shop-grid"></div>
+</div>
+
+<!-- 部队面板 -->
+<div id="panel-army" class="panel modal hidden">
+  <div class="panel-title"><span>⚔️ 部队</span><button class="close-x" data-close="panel-army">✕</button></div>
+  <div id="army-content"></div>
+</div>
+
+<!-- 进攻确认 / 搜索 -->
+<div id="panel-search" class="panel modal hidden">
+  <div class="panel-title"><span>🔥 进攻</span><button class="close-x" data-close="panel-search">✕</button></div>
+  <div id="search-content"></div>
+</div>
+
+<!-- 战斗 HUD -->
+<div id="battle-hud" class="hidden">
+  <div id="battle-top">
+    <div class="battle-stat"><span id="battle-timer">3:00</span></div>
+    <div class="battle-stat">💥 <span id="battle-percent">0%</span></div>
+    <div class="battle-stars" id="battle-stars">☆☆☆</div>
+    <div class="battle-stat loot">🪙 <span id="battle-loot-gold">0</span></div>
+    <div class="battle-stat loot">💧 <span id="battle-loot-elixir">0</span></div>
+    <button class="small-btn danger" id="btn-end-battle">投降</button>
+  </div>
+  <div id="deploy-bar"></div>
+</div>
+
+<!-- 战斗结算 -->
+<div id="panel-result" class="panel modal hidden">
+  <div class="panel-title"><span id="result-title">战斗结束</span></div>
+  <div id="result-content"></div>
+</div>
+
+<div id="toast-wrap"></div>
+<div id="confirm-wrap" class="hidden"></div>
+
+<script src="js/data.js"></script>
+<script src="js/sfx.js"></script>
+<script src="js/state.js"></script>
+<script src="js/enemy.js"></script>
+<script src="js/battle.js"></script>
+<script src="js/render.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>

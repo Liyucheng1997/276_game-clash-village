@@ -210,7 +210,7 @@ const UI = {
       item.className = 'shop-item' + (chk.ok ? '' : ' locked');
       item.innerHTML = `
         <div class="si-count">${count}/${max}</div>
-        <div class="si-icon">${def.icon}</div>
+        <div class="si-icon">${this.assetIcon(type)}</div>
         <div class="si-name">${def.name}</div>
         <div class="si-info">${def.desc}</div>
         <div class="si-cost">${costText(cost)}</div>`;
@@ -247,7 +247,7 @@ const UI = {
         const def = TROOPS[t];
         html += `<div class="troop-card" data-act="dismiss" data-type="${t}">
           <div class="tc-count">×${s.army[t]}</div>
-          <div class="tc-icon">${def.icon}</div>
+          <div class="tc-icon">${this.assetIcon(t)}</div>
           <div class="tc-name">${def.name} ${Game.troopLevel(t)}级</div>
           <div class="tc-info">占${def.housing}人口</div></div>`;
       }
@@ -258,7 +258,7 @@ const UI = {
       for (const t in s.spells) {
         const def = SPELLS[t];
         html += `<div class="troop-card"><div class="tc-count">×${s.spells[t]}</div>
-          <div class="tc-icon">${def.icon}</div><div class="tc-name">${def.name}</div></div>`;
+          <div class="tc-icon">${this.assetIcon(t)}</div><div class="tc-name">${def.name}</div></div>`;
       }
       html += `</div>`;
     }
@@ -278,7 +278,7 @@ const UI = {
       const def = TROOPS[t];
       const locked = barLv < def.unlockBarracks;
       html += `<div class="troop-card ${locked ? 'locked' : ''}" data-act="train" data-type="${t}" title="${def.desc}">
-        <div class="tc-icon">${def.icon}</div>
+        <div class="tc-icon">${this.assetIcon(t)}</div>
         <div class="tc-name">${def.name} ${Game.troopLevel(t)}级</div>
         <div class="tc-info">${locked ? `需${def.unlockBarracks}级兵营` : `💧${fmt(def.cost)} · 占${def.housing}`}</div></div>`;
     }
@@ -298,7 +298,7 @@ const UI = {
         const def = SPELLS[t];
         const locked = facLv < def.unlockFactory;
         html += `<div class="troop-card ${locked ? 'locked' : ''}" data-act="brew" data-type="${t}" title="${def.desc}">
-          <div class="tc-icon">${def.icon}</div>
+          <div class="tc-icon">${this.assetIcon(t)}</div>
           <div class="tc-name">${def.name} ${Game.troopLevel(t)}级</div>
           <div class="tc-info">${locked ? `需${def.unlockFactory}级工厂` : `💧${fmt(def.cost)}`}</div></div>`;
       }
@@ -324,7 +324,7 @@ const UI = {
           const need = researchLabNeed(cur + 1);
           const locked = labLv < need;
           html += `<div class="troop-card ${locked ? 'locked' : ''}" data-act="research" data-type="${t}">
-            <div class="tc-icon">${def.icon}</div>
+            <div class="tc-icon">${this.assetIcon(t)}</div>
             <div class="tc-name">${def.name} ${cur}→${cur + 1}级</div>
             <div class="tc-info">${locked ? `需${need}级实验室` : `💧${fmt(rc.elixir)} · ${fmtTime(rc.time)}`}</div></div>`;
         }
@@ -412,7 +412,7 @@ const UI = {
       const def = TROOPS[t];
       const sel = Battle.selected && Battle.selected.kind === 'troop' && Battle.selected.type === t;
       html += `<div class="deploy-card ${sel ? 'selected' : ''} ${n <= 0 ? 'empty' : ''}" data-kind="troop" data-type="${t}">
-        <div class="dc-count">×${n}</div><div class="dc-icon">${def.icon}</div><div class="dc-name">${def.name}</div></div>`;
+        <div class="dc-count">×${n}</div><div class="dc-icon">${this.assetIcon(t)}</div><div class="dc-name">${def.name}</div></div>`;
     }
     for (const t of SPELL_ORDER) {
       const n = Battle.spells[t] || 0;
@@ -420,7 +420,7 @@ const UI = {
       const def = SPELLS[t];
       const sel = Battle.selected && Battle.selected.kind === 'spell' && Battle.selected.type === t;
       html += `<div class="deploy-card spell ${sel ? 'selected' : ''} ${n <= 0 ? 'empty' : ''}" data-kind="spell" data-type="${t}">
-        <div class="dc-count">×${n}</div><div class="dc-icon">${def.icon}</div><div class="dc-name">${def.name}</div></div>`;
+        <div class="dc-count">×${n}</div><div class="dc-icon">${this.assetIcon(t)}</div><div class="dc-name">${def.name}</div></div>`;
     }
     bar.innerHTML = html;
     bar.querySelectorAll('.deploy-card').forEach(el => {

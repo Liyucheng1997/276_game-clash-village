@@ -95,8 +95,8 @@ const Render = {
     ctx.setTransform(1, 0, 0, 1, 0, 0);
     // 天空/背景
     const bg = ctx.createLinearGradient(0, 0, 0, H);
-    bg.addColorStop(0, Battle.active ? '#2b3a2b' : '#3a5a3a');
-    bg.addColorStop(1, Battle.active ? '#1c281c' : '#294529');
+    bg.addColorStop(0, '#496c32');
+    bg.addColorStop(1, '#496c32');
     ctx.fillStyle = bg;
     ctx.fillRect(0, 0, W, H);
 
@@ -113,13 +113,13 @@ const Render = {
 
     // 收集要排序绘制的实体
     const items = [];
-    const buildings = Battle.active ? Battle.buildings : Game.state.buildings;
+    const buildings = Battle.active ? Battle.buildings : (this.previewEnemy ? this.previewEnemy.buildings : Game.state.buildings);
     for (const b of buildings) {
       const size = b.size || BUILDINGS[b.type].size;
       items.push({ key: b.x + b.y + size, kind: 'b', ref: b });
     }
     if (!Battle.active) {
-      for (const o of Game.state.obstacles) items.push({ key: o.x + o.y + o.size, kind: 'o', ref: o });
+      for (const o of (this.previewEnemy ? this.previewEnemy.obstacles : Game.state.obstacles)) items.push({ key: o.x + o.y + o.size, kind: 'o', ref: o });
     } else if (Battle.enemy) {
       for (const o of Battle.enemy.obstacles) items.push({ key: o.x + o.y + o.size, kind: 'o', ref: o });
       for (const t of Battle.troops) if (!t.dead) items.push({ key: t.x + t.y + 0.6, kind: 't', ref: t });

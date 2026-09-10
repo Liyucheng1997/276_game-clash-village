@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checks": [
+    "asset loading",
+    "nonoverlapping village",
+    "roof picking",
+    "building drag",
+    "training",
+    "upgrade builders",
+    "construction placement",
+    "collection",
+    "shop",
+    "enemy scouting",
+    "red-zone rejection",
+    "hold deployment",
+    "troop movement and damage",
+    "three-star result",
+    "consecutive battle reset",
+    "profile backup and restoration",
+    "reload persistence",
+    "mobile resize and UI",
+    "sound mute"
+  ],
+  "errors": [],
+  "missing": []
+}

@@ -1,0 +1,992 @@
+[
+  {
+    "path": "buildings/home-village/town_hall/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_1.webp",
+    "bytes": 9868,
+    "sha256": "509881a2d171df13f3fd78df0c6d6d4984e9743aa229b513c6773d59b2269200"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_2.webp",
+    "bytes": 11586,
+    "sha256": "dc9ba22908b0e21a7fdb9aae7387be386c42efd180bca8e370225d93003fc4d0"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_3.webp",
+    "bytes": 12122,
+    "sha256": "65fb01d864912b12aa6f5ef1b18d657f527632a68d35445e22189ac4c4b27d50"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_4.webp",
+    "bytes": 13184,
+    "sha256": "5cd09e8ef35d9a5a8d4390fda585f0f72f2307d202ac2d1e89447440d9dbd7ea"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_5.webp",
+    "bytes": 13474,
+    "sha256": "acbbda0ecfb50a4d0fca8013c9a66df756c5b20d5d2863b359eac9276b224ef4"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_6.webp",
+    "bytes": 14208,
+    "sha256": "b007f64fcba448a5a033e5ef3436d3fcf198ec54f5f374be4b298a576daa8b1b"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_7.webp",
+    "bytes": 14810,
+    "sha256": "244d16a28ed625dcc0d84c3a7c6a30f89147bce64c9aecc875b6f2a89528d27e"
+  },
+  {
+    "path": "buildings/home-village/town_hall/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/town_hall/level_8.webp",
+    "bytes": 14916,
+    "sha256": "c2945f3ad772db7d1caf0e48ebde0ca1e0998d4c54205ec03985ff70868393eb"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_1.webp",
+    "bytes": 6432,
+    "sha256": "454fe728f7ecb29d37e16ff31e0d47426573f9629fa07165a99f3cbec297c7bc"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_2.webp",
+    "bytes": 6302,
+    "sha256": "ce354e0792e63aedee3d6704328760de410f9fafc0305b4d225d0b3ae771225e"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_3.webp",
+    "bytes": 6332,
+    "sha256": "054ad5e59ff7cc6f90f333df62aa807f4437f469aba649677885fa5657526991"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_4.webp",
+    "bytes": 6528,
+    "sha256": "77306236a1b2baf50f4428eccea5186c72226b3dfe905b232a02406ee9e9651b"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_5.webp",
+    "bytes": 6258,
+    "sha256": "33e9d43190c8faff12a835cc06d2a83f74e4cc95c6d6d571e88af726da31e776"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_6.webp",
+    "bytes": 6070,
+    "sha256": "b7cd2a2307728a76c9ae1c8000603ee3bce74ee298146f8414ca85c84ebce058"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_7.webp",
+    "bytes": 6364,
+    "sha256": "a3ff684dd95430bcdaa7e31454320b60201b1b763fa59c347afa3b511c6226ab"
+  },
+  {
+    "path": "buildings/home-village/gold_mine/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_mine/level_8.webp",
+    "bytes": 6806,
+    "sha256": "1a37406c68225fe2cf3d13027296bba83282d377b6a2d4b06ab0fdabc6cc0284"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_1.webp",
+    "bytes": 5988,
+    "sha256": "012cb2218646b6e5de931fb3447069f15552bb4bf34915eb09b0d5d69843dba0"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_2.webp",
+    "bytes": 5758,
+    "sha256": "3e23744150dd97d2cd02c543ca783eae13d980754034e2298bdfd1dabcbb6dd1"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_3.webp",
+    "bytes": 5874,
+    "sha256": "5bc977c6ad0681ab8b81a9c8c1336f2c9185c02d5b88835b4fe1dc5620b3ab8d"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_4.webp",
+    "bytes": 6344,
+    "sha256": "15ebf6bcf90ea6224ce9d1553ffe9063b127a620d12e46990e0e397ec29ad60c"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_5.webp",
+    "bytes": 6428,
+    "sha256": "9c4e4595a45a0555c7dfedd5ec5ee54be2a5d401abb23785d30b0aba079bb52f"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_6.webp",
+    "bytes": 7302,
+    "sha256": "c652b2600609e8f210b60cc79251a5778f50530876266995a7df9d2fbe033a87"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_7.webp",
+    "bytes": 7894,
+    "sha256": "755bf783d61021c4c8a385fec3b42514440f997f2576552e0001012e128d40b5"
+  },
+  {
+    "path": "buildings/home-village/elixir_collector/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_collector/level_8.webp",
+    "bytes": 7322,
+    "sha256": "14a9a66784cc88ed249e009bdb55406234bd06bcd3bec8f7a4dce200fee4e403"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_1.webp",
+    "bytes": 6700,
+    "sha256": "7f8cff7f7250a1e04772cd415d80e7c5eedd46b05c62031b864041ce37454b0d"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_2.webp",
+    "bytes": 7966,
+    "sha256": "15691a7515916ff2788e0c18381a778ebcbf4459b85f7f569b4f86bd5e2407fd"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_3.webp",
+    "bytes": 8188,
+    "sha256": "7bef9728dade5bb0d6da3c2aeb5597727d4429b9f4d7c7f8c1d435e14ae59723"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_4.webp",
+    "bytes": 8742,
+    "sha256": "f9afdda31df8141a20087a8bec66881f16b7a8c5371c2bb200ab6df8b83cd7de"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_5.webp",
+    "bytes": 8532,
+    "sha256": "5bf9ae0d4d4ad3ad3d8876540d354b862ec8ceb0525546ae7c4232a4cceb9996"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_6.webp",
+    "bytes": 8696,
+    "sha256": "535b3a1d4b5adb87f569da7a58b5cb738f8c06682c8cadaf811029933193767f"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_7.webp",
+    "bytes": 9636,
+    "sha256": "60cc1fd0ae62df53ec400009064606fa9ddf2aeff57b502bd7353a6be8c35550"
+  },
+  {
+    "path": "buildings/home-village/gold_storage/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/gold_storage/level_8.webp",
+    "bytes": 10184,
+    "sha256": "cb4c252c85f493defaad2a70b21266c6e9c14cc114a77ead2921b4c2b35f2dfc"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_1.webp",
+    "bytes": 2112,
+    "sha256": "e66ff8c41c38e6fb3e613e5ad8a17880c829d341cf2e5e25226eebd3edda34db"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_2.webp",
+    "bytes": 3764,
+    "sha256": "84086ba71b43c158e4a754cfba63c7d67134f0ce3645a18f83e6d162f15b2f77"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_3.webp",
+    "bytes": 4392,
+    "sha256": "e1f402661241cf59206aaddffa9fb9235ccd345fae6e138fa6f2027a0d066d94"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_4.webp",
+    "bytes": 4726,
+    "sha256": "49844211dd4248b0d3a66e4775323ab2c958f108e9cd4cdf6ebbaa43d0460aa6"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_5.webp",
+    "bytes": 4434,
+    "sha256": "36d2f6434e98dac1daa0c604829c35bfa12606f06d5254079d9fdc95d46fdf4e"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_6.webp",
+    "bytes": 5600,
+    "sha256": "8a46209356bc95105f9071551ee69f50cca14d7e9f7e0aeeb01ffda06545c13f"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_7.webp",
+    "bytes": 6272,
+    "sha256": "52ae2be4df6e9196155528c67cde858e999de45ccbab431c691421f9e44a6a06"
+  },
+  {
+    "path": "buildings/home-village/elixir_storage/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/elixir_storage/level_8.webp",
+    "bytes": 7434,
+    "sha256": "3ac63ade529e6aab83899301dfd3cb65a03e35f638dead8ff4753c9caf47b173"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_1.webp",
+    "bytes": 5874,
+    "sha256": "f019f1f3bf5a745071639ef5f4e9d7bda5e200a0e32260fb0eb7496793f5abcd"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_2.webp",
+    "bytes": 7754,
+    "sha256": "5466aa6017e96bf721bc519aadae98f6b4b632535b793f846885bbd4f613ad44"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_3.webp",
+    "bytes": 8006,
+    "sha256": "be86251cb73d9028720d1c9a4eb5dca45407e93a2683e2bd3c9ea2fccb5e1827"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_4.webp",
+    "bytes": 8090,
+    "sha256": "e97b2b21e49435e8f922d50e5fc239d101d7db0fd77d6fdf961e46884971771f"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_5.webp",
+    "bytes": 9380,
+    "sha256": "1d13c1847b30857d38aaa96ad8c0b945abbf86ca45db371c465b596153d3afb0"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_6.webp",
+    "bytes": 9906,
+    "sha256": "a71cf13449c7bf622d6c34d63e341cf5e35b3e5a41dd14a2bb30b34236a21147"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_7.webp",
+    "bytes": 9220,
+    "sha256": "2cb7ec7cfbf75190f010111c5b7de9008bc9b603aa462fc0ac3d33976748d52e"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_8.webp",
+    "bytes": 8660,
+    "sha256": "1d3251f02f51775a3e7f9ac6abecf7577cca9586dc25d78541f86d4645f2a650"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_9.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_9.webp",
+    "bytes": 8290,
+    "sha256": "9f6c573391299ce779dabdf831a505f4aa3f04e3173006ecc24bc1641ae9c304"
+  },
+  {
+    "path": "buildings/home-village/barracks/level_10.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/barracks/level_10.webp",
+    "bytes": 9618,
+    "sha256": "76fe770a3f5d6441227e8599709731c975140091054809f6863627d6c2d72d75"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_1.webp",
+    "bytes": 3900,
+    "sha256": "7cc3cdb796b6d4ebd14ed6e7e7fc131fb82ba0940d3c8d409075caafa1413cae"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_2.webp",
+    "bytes": 4914,
+    "sha256": "33cac4134d54b368dfc8dcf38b3749735982a80ff0d10dd9f418ee31132319b3"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_3.webp",
+    "bytes": 5570,
+    "sha256": "bdcb92ee52896907057fce8a170f07c2f44d422245b478ceb202ba6357565e25"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_4.webp",
+    "bytes": 4836,
+    "sha256": "0cf32f69e2c6df334af2c31f1069b4b4cd05b3c99d6fc27dca02bf95f5ebe6ad"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_5.webp",
+    "bytes": 4584,
+    "sha256": "b98f1591955327c0821340dd6f5e3c844bb4abeeb8742548e4e70c371f03602a"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_6.webp",
+    "bytes": 4894,
+    "sha256": "8229e30e24ebe94b4d58c23e4d09a9e4df1532bb0cf19f04058261c150ce6d67"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_7.webp",
+    "bytes": 8576,
+    "sha256": "9afb3c6d268d98ef35fdcfec8d56823c9b38f5f4f0b1c9742bd04f8b223d8fe3"
+  },
+  {
+    "path": "buildings/home-village/army_camp/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/army_camp/level_8.webp",
+    "bytes": 9188,
+    "sha256": "ef0e0d60bd070aed100abc50968eb74ca02552f0e6a0a6cce663b01c6adc1d8c"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_1.webp",
+    "bytes": 6766,
+    "sha256": "61bba21f9058c71310dcaef6896f123f520931ac817cd43d2e604eeccac7abf0"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_2.webp",
+    "bytes": 7504,
+    "sha256": "ee2bd066352c95890582a9ee4129a93609324f2577b4bfd386870b26bee6e166"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_3.webp",
+    "bytes": 7120,
+    "sha256": "8da7df5b1286d7b20d0503b423ac22a6084d47bb465c793cebf1a07189506dad"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_4.webp",
+    "bytes": 7322,
+    "sha256": "77829462cfc1ecbf5835c4eddbfd6874023e47218e4073d95b8c98921a279ff3"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_5.webp",
+    "bytes": 8194,
+    "sha256": "53ed3639e6feb18c3b6299812a5e1f86e6f1a2db8a468b46916627eb2debe310"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_6.webp",
+    "bytes": 9294,
+    "sha256": "bc09d25aed3853da7654aceaa6b1ddbabda7ee84e253253a4333436e9bc21ae2"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_7.webp",
+    "bytes": 8504,
+    "sha256": "b96f82a600812182185b771cf1c247f0e7bfd2fb0ca5b0197c9c3a92542e68cb"
+  },
+  {
+    "path": "buildings/home-village/laboratory/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/laboratory/level_8.webp",
+    "bytes": 8716,
+    "sha256": "8d1865d41b7e8c2f316b7d0f2fc7fb63a874fa32bc224fd9fac35d63f41a987e"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_1.webp",
+    "bytes": 8250,
+    "sha256": "a7a3cf687b3792f33a10a6a8b4ad9fff52a6eae4f295b030fbaa3d5b84d1413a"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_2.webp",
+    "bytes": 8348,
+    "sha256": "443bbc5bbd216372374c2ad220210410d1d36e6a669a90ccd89d27f3f85b9add"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_3.webp",
+    "bytes": 8610,
+    "sha256": "14f2dfcaec4c20236ef35ca2bbd3406a06c0a38e265bc118cf4018a330320278"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_4.webp",
+    "bytes": 11514,
+    "sha256": "297d3c46b62b990c6a8aef3b3327d3eb2b63e60750b39866da6a9968326e0216"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_5.webp",
+    "bytes": 11064,
+    "sha256": "b3ce714d63dd42d7f05e6b0af2ed3cc575a43211f9c8b5c646ca5859fa63c754"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_6.webp",
+    "bytes": 11428,
+    "sha256": "73148dc40034282cc1031a9e5ef8d4c195e555f80c9adb63ad60d638265f75d5"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_7.webp",
+    "bytes": 10930,
+    "sha256": "35e1b72d00638629ab6cf267e6e80f8e0cb5a52e2314656a918605409f4282da"
+  },
+  {
+    "path": "buildings/home-village/spell_factory/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/spell_factory/level_8.webp",
+    "bytes": 10552,
+    "sha256": "870b28bbca91bbb16d9552d614d4d4036ad25509f5917aea72dc812436300dec"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_1.webp",
+    "bytes": 2410,
+    "sha256": "1b6dc211d733f17ff96973a34e95c5681c39bb2dc071bd52ffc28b35e71acc8e"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_2.webp",
+    "bytes": 3374,
+    "sha256": "80f86988e2d256b19fe49828db4aaf9ac5ee52ea7702556c83b43b5ae9540d80"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_3.webp",
+    "bytes": 3650,
+    "sha256": "1f7dab4bd52f4abd2afe8c4018bee31652f73208aca86428621834fb951380e1"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_4.webp",
+    "bytes": 3446,
+    "sha256": "023fcd797e677b54f8fa076c5f5a5839b0570be9e0a39713e6a8dec406e65d7b"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_5.webp",
+    "bytes": 3466,
+    "sha256": "8f0ff4db07268db6c06ca8db4351383390dc23c1939f96132cb4e602f7648128"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_6.webp",
+    "bytes": 4692,
+    "sha256": "12e0a2e8b150ecc94a4d986ee8983465ca03f797efcded65048b8ec8bafb37a1"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_7.webp",
+    "bytes": 5962,
+    "sha256": "7b42e5cd4564518c696f7db06956cf5ad12fa7598222fecc291a5249591dbcbc"
+  },
+  {
+    "path": "buildings/home-village/cannon/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/cannon/level_8.webp",
+    "bytes": 6030,
+    "sha256": "20ba369032e36b561eada5aa05c7d57de74106fb4a1cdce7f53dd60c0f844136"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_1.webp",
+    "bytes": 7426,
+    "sha256": "1b1d995b30651e0e6bda0b1422ed2d487e33930b7cdf73b8c42deaba5d253fa0"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_2.webp",
+    "bytes": 7098,
+    "sha256": "54e4817939f776bb3aa4e8df249d06ac41654601691e42612481478fd2e3219a"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_3.webp",
+    "bytes": 7184,
+    "sha256": "c0526f4336cd5f902c4f0c2cc23e93f9ca8c9cb1d1f71da973bbd8735393703e"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_4.webp",
+    "bytes": 7254,
+    "sha256": "e06a91a541595fd49b629074dcca4264a089c3c6bae7d6a60d11c25894e4ae1e"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_5.webp",
+    "bytes": 6772,
+    "sha256": "a18d5e78989b169ea3fdd9227028e3b2a13c81c5368d57a06aafacece51f5d25"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_6.webp",
+    "bytes": 6674,
+    "sha256": "544a5bf1c840965ee330c5100386751f588b3944bd7a94b7022a9c9a06421738"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_7.webp",
+    "bytes": 7302,
+    "sha256": "8a6f7d673b6be390707b75667950ba5a5865c017742571b20951f1786ba269f7"
+  },
+  {
+    "path": "buildings/home-village/archer_tower/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/archer_tower/level_8.webp",
+    "bytes": 7318,
+    "sha256": "2e12d1db095a9fb8d1ccb077d71cedb3fdb719805116b5172f6eca089f8318d1"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_1.webp",
+    "bytes": 2922,
+    "sha256": "e6842a750316591bdd777a3db7448586f0396cabcae3af03525db9b744639821"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_2.webp",
+    "bytes": 3146,
+    "sha256": "5deac262a5deb2e6b0acfc6cf018bab8b51718e8ad308191844ca4ba7dfe066b"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_3.webp",
+    "bytes": 4124,
+    "sha256": "bcc4b1b5d2455aab8f15c6548e3ab35d05a6b2f6bc9453e8f0101f6add3bd67a"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_4.webp",
+    "bytes": 4426,
+    "sha256": "06372a0a39fd8c1799618c3f511eae431a26d3b6d6270f1e39aa931a25b5a861"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_5.webp",
+    "bytes": 4922,
+    "sha256": "b57ab02da38f251e8dc279fdfa111a4af4d3d9674d07cf6916885e41d4eae59d"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_6.webp",
+    "bytes": 4978,
+    "sha256": "9177d0e2e81ac4896dcf36390fc738a4f54414f40565d867b9d1db06750aadf8"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_7.webp",
+    "bytes": 5036,
+    "sha256": "1b82638d803ff34df8f044e1625ac8c878753ef862edf871a088898c12661a25"
+  },
+  {
+    "path": "buildings/home-village/mortar/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/mortar/level_8.webp",
+    "bytes": 6464,
+    "sha256": "1684e65e643a9ab38b82817c8c9cb39bd54c236aab421e8ee54da00b32dff466"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_1.webp",
+    "bytes": 4580,
+    "sha256": "48b47126569f35df8c2e29c0b207456f300f165e8cf55dfc715e1bdf4ee6c048"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_2.webp",
+    "bytes": 4842,
+    "sha256": "e673a9091c64b767e5e37e5638c29cac69d896f8e7420d348084d749aad9723c"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_3.webp",
+    "bytes": 4966,
+    "sha256": "b7513ef4b7de59b8db8efc52c57291af31be1b466c671b8a06bea6305748b133"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_4.webp",
+    "bytes": 6010,
+    "sha256": "1ba82ae2cf3223a38d0bac63573e188e15a294777ab75459fcbc149e30799bb5"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_5.webp",
+    "bytes": 5124,
+    "sha256": "317f405accc48abfa98d1341a62b2723b6e23c6c6ecab0ab6596414d05886587"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_6.webp",
+    "bytes": 6714,
+    "sha256": "6e53441f9e09bedd82e120132f7b472bc30cc11d09b24ea0001be24bafc22cb8"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_7.webp",
+    "bytes": 6518,
+    "sha256": "8f9a4124c9e0b7cb317d35130f9edca25ea78b0d959f535bcb048bf70d10d83b"
+  },
+  {
+    "path": "buildings/home-village/wizard_tower/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wizard_tower/level_8.webp",
+    "bytes": 6428,
+    "sha256": "535efb358158716792428b7b9d4b9fe75f3c52bf1a77dd202d89f711543496d2"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_1.webp",
+    "bytes": 2830,
+    "sha256": "d6a9f3147db9379638a38ea00a3c6d6ee8d3e5ab36bf136b339b0c5977db8cf6"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_2.webp",
+    "bytes": 3680,
+    "sha256": "cff186f9675d520e9aa651719936728d7b5db6e00931d18035ca554390d2de72"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_3.webp",
+    "bytes": 3734,
+    "sha256": "ad289e1ac2a1dbf7302022b5d6056c06d198ee02b4787ced45e41cb5642c780a"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_4.webp",
+    "bytes": 3894,
+    "sha256": "e71d5255198cfb147300ed032a5f328153339ae37b142ce2a4b85a385ee5f546"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_5.webp",
+    "bytes": 4610,
+    "sha256": "0d388b5abd3b13329d859337a7d2320ceed725179b56003f6d4b314726605727"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_6.webp",
+    "bytes": 5054,
+    "sha256": "532b0d640c846384852c37784ae12e63d529ee62afe1762894d4e429230e5b09"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_7.webp",
+    "bytes": 6520,
+    "sha256": "5ab54a99a566bc8b2f30e00664f818044eb7178bc5ab687244abc08885699cab"
+  },
+  {
+    "path": "buildings/home-village/air_defense/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/air_defense/level_8.webp",
+    "bytes": 7632,
+    "sha256": "12101e07cd54bf43ae6fe1250ed1e4d3614f4fb6fdb4ff26525b6eed24426bc1"
+  },
+  {
+    "path": "buildings/home-village/wall/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_1.webp",
+    "bytes": 2908,
+    "sha256": "f0d42f98a60570e6f8f472c69123cbfdd347e235d16459d618a8da95c597ca90"
+  },
+  {
+    "path": "buildings/home-village/wall/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_2.webp",
+    "bytes": 2420,
+    "sha256": "9c83a0f337cb0a4b4947ab6ab177571db1cb14d5c8e5b07196385a535ded1486"
+  },
+  {
+    "path": "buildings/home-village/wall/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_3.webp",
+    "bytes": 2720,
+    "sha256": "d8b63ba752152bb5751c87ae67b8e1b32106bd7bcae6e5c90129075ee17810aa"
+  },
+  {
+    "path": "buildings/home-village/wall/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_4.webp",
+    "bytes": 2360,
+    "sha256": "0f2c6f72e6930df3909f3b1e765330795a861cfdee40c4b72ee401b16e2262ff"
+  },
+  {
+    "path": "buildings/home-village/wall/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_5.webp",
+    "bytes": 2842,
+    "sha256": "86f6b3db6966abbb448362b719e138b7e478c5933a2666e17b9e0f3380190326"
+  },
+  {
+    "path": "buildings/home-village/wall/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_6.webp",
+    "bytes": 2752,
+    "sha256": "bae320b22c1d3e99d3f012e4e91250de9ea51a774c5d207b72067930d5a0f693"
+  },
+  {
+    "path": "buildings/home-village/wall/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_7.webp",
+    "bytes": 2904,
+    "sha256": "34adb91657bd5e720cb55bea30051a8b6d0587892caf2d560d0060290e2edf03"
+  },
+  {
+    "path": "buildings/home-village/wall/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/wall/level_8.webp",
+    "bytes": 2696,
+    "sha256": "61de64b28db9dd1c15838f557843c492c256ccd1fdd40174019bfcb70d57c79d"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_1.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_1.webp",
+    "bytes": 4240,
+    "sha256": "3296e9716fb688402058424b5bab357797963d48a6f7211e951bda07fbeef980"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_2.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_2.webp",
+    "bytes": 3632,
+    "sha256": "b6c4d81fd1c02e0a16eead0ffbbc0f035feb143ffeef12759be9984a0c8f9a16"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_3.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_3.webp",
+    "bytes": 4702,
+    "sha256": "cbddfcea7536e91372a6b15992448695d57450e3936e27a0600bb512d717819f"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_4.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_4.webp",
+    "bytes": 5084,
+    "sha256": "93af8d3e83ae158eecec29eba988ef92ff69882e8ad3fc9f7a5c13b9923c66bc"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_5.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_5.webp",
+    "bytes": 5440,
+    "sha256": "402634560dc3eca43f02a578e10ca3b2089dcf8fa7bb3f98f949c4c0e478e5c5"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_6.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_6.webp",
+    "bytes": 5624,
+    "sha256": "df7fe5c04afaf0f0234a08561eaa5c911600e7ec62c870166c80d790851ce65e"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_7.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_7.webp",
+    "bytes": 5808,
+    "sha256": "b0704ed49f0ddfbee7d6ba535e2b7db392d17dbae021b427e3355aee11e964e4"
+  },
+  {
+    "path": "buildings/home-village/builder's_hut/level_8.webp",
+    "source": "https://assets.clashk.ing/buildings/home-village/builder's_hut/level_8.webp",
+    "bytes": 9630,
+    "sha256": "fa60088c5ebd720b228308c526e598ea0b243ab6e3ad313e82ec191a29b8aa42"
+  },
+  {
+    "path": "troops/barbarian/icon.webp",
+    "source": "https://assets.clashk.ing/troops/barbarian/icon.webp",
+    "bytes": 7918,
+    "sha256": "b67a036f947094304dd5a9216af125bdeb6461a87b77c0a1072f526ae13195d2"
+  },
+  {
+    "path": "troops/archer/icon.webp",
+    "source": "https://assets.clashk.ing/troops/archer/icon.webp",
+    "bytes": 9802,
+    "sha256": "ca07d321f7c5eb105e8bee65d2acbc2a36c65af3417e8a293a1dfa7065d978a2"
+  },
+  {
+    "path": "troops/goblin/icon.webp",
+    "source": "https://assets.clashk.ing/troops/goblin/icon.webp",
+    "bytes": 11704,
+    "sha256": "a21411fbf21e15ca1a49d75a0a050fbda8a9832e20948de306d9b36badae0216"
+  },
+  {
+    "path": "troops/giant/icon.webp",
+    "source": "https://assets.clashk.ing/troops/giant/icon.webp",
+    "bytes": 10884,
+    "sha256": "1ca44ba63333cddeae12a13c051aaf6e920dd3c23e0211add73de873acc3dcbf"
+  },
+  {
+    "path": "troops/wall_breaker/icon.webp",
+    "source": "https://assets.clashk.ing/troops/wall_breaker/icon.webp",
+    "bytes": 12666,
+    "sha256": "fdb3d36f5bb9b428f72c480f5938e4123ad205c0a9c157fe71e16b45f162a62a"
+  },
+  {
+    "path": "troops/balloon/icon.webp",
+    "source": "https://assets.clashk.ing/troops/balloon/icon.webp",
+    "bytes": 12886,
+    "sha256": "75655d1e1d108d98fed91042603deb574f4d5f5eac46b839f950dcf1ce23ea75"
+  },
+  {
+    "path": "troops/wizard/icon.webp",
+    "source": "https://assets.clashk.ing/troops/wizard/icon.webp",
+    "bytes": 10136,
+    "sha256": "2fb44f4fdc9322cf134b8dbf68a01da8d3897a163c0b60c1365c2795476ca778"
+  },
+  {
+    "path": "troops/healer/icon.webp",
+    "source": "https://assets.clashk.ing/troops/healer/icon.webp",
+    "bytes": 10714,
+    "sha256": "b8e57ac30f4c789ac45bec6cecba33bb3624378bdc57ece116b8b8a5878b9aa3"
+  },
+  {
+    "path": "troops/dragon/icon.webp",
+    "source": "https://assets.clashk.ing/troops/dragon/icon.webp",
+    "bytes": 10188,
+    "sha256": "49db9955fe542e529fdc0be8d9142bc91c6df8484db681f45ef0262762fc0044"
+  },
+  {
+    "path": "troops/pekka/icon.webp",
+    "source": "https://assets.clashk.ing/troops/pekka/icon.webp",
+    "bytes": 11260,
+    "sha256": "a966b660922e5b8379bf397d52e13532dbf4c5c22c21dbba56ae58e3c1df263e"
+  },
+  {
+    "path": "resources/gold.webp",
+    "source": "https://assets.clashk.ing/resources/gold.webp",
+    "bytes": 1972,
+    "sha256": "971a25bd34381097db4451949347d567276d9648ba2cfa76181306ae76f94dc7"
+  },
+  {
+    "path": "resources/elixir.webp",
+    "source": "https://assets.clashk.ing/resources/elixir.webp",
+    "bytes": 1570,
+    "sha256": "c3f6db8a767db3db7d89cefaf50ab940407a2ecbc8172887d9938e8efe220508"
+  },
+  {
+    "path": "resources/gems.webp",
+    "source": "https://assets.clashk.ing/resources/gems.webp",
+    "bytes": 1316,
+    "sha256": "654e9183eacba5f2f9c640bc044e1e4ee3f00d0ff97d540447908055146d01d1"
+  },
+  {
+    "path": "resources/dark_elixir.webp",
+    "source": "https://assets.clashk.ing/resources/dark_elixir.webp",
+    "bytes": 968,
+    "sha256": "62bd1895f2db87146acafc61963eef2dee7b58c0233b485bef9dfce7a821cae5"
+  },
+  {
+    "path": "obstacles/home-village/tree.webp",
+    "source": "https://assets.clashk.ing/obstacles/home-village/tree.webp",
+    "bytes": 4946,
+    "sha256": "497ee5d0396f4b6b1bdf55301abe1a8c53aeb583a56362a50d4a39ceecd01006"
+  },
+  {
+    "path": "obstacles/home-village/bush.webp",
+    "source": "https://assets.clashk.ing/obstacles/home-village/bush.webp",
+    "bytes": 3664,
+    "sha256": "311cfea6943072704d504944764789f6342dff6e7b98f8d8dc6143bf3dec0510"
+  },
+  {
+    "path": "obstacles/home-village/stone.webp",
+    "source": "https://assets.clashk.ing/obstacles/home-village/stone.webp",
+    "bytes": 4152,
+    "sha256": "fcbf323d6da8fd75fc48976bd2b3bdee2a77d4c57438cf0289f6afd410f6efd1"
+  },
+  {
+    "path": "obstacles/home-village/trunk.webp",
+    "source": "https://assets.clashk.ing/obstacles/home-village/trunk.webp",
+    "bytes": 2958,
+    "sha256": "59191542d094e92fbea70971c904db419db053b1712a7cbc8e8ca877e290ac71"
+  },
+  {
+    "path": "obstacles/home-village/gem_box.webp",
+    "source": "https://assets.clashk.ing/obstacles/home-village/gem_box.webp",
+    "bytes": 6370,
+    "sha256": "070d20910a266fc3a870cb8d88267f72d528f54915012bea6d77e6993361b1dc"
+  },
+  {
+    "path": "obstacles/builder-base/big_tree.webp",
+    "source": "https://assets.clashk.ing/obstacles/builder-base/big_tree.webp",
+    "bytes": 6122,
+    "sha256": "1e7095c2c55132e2b2513aed128e11193e917d05ed34af60262effc1a0d7fb17"
+  },
+  {
+    "path": "obstacles/builder-base/tree.webp",
+    "source": "https://assets.clashk.ing/obstacles/builder-base/tree.webp",
+    "bytes": 5418,
+    "sha256": "a843ed00d4aa32ccd529f1f8825b6e5828fd1c55412ac447306d86367c14b8cf"
+  },
+  {
+    "path": "icons/Icon_HV_Attack.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Attack.png",
+    "bytes": 10498,
+    "sha256": "fe56f04c3267adc6593d1bb636b226cf65ee65f2fcdd740ebd36a68f0ac3cab7"
+  },
+  {
+    "path": "icons/Icon_HV_Trophy.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Trophy.png",
+    "bytes": 11491,
+    "sha256": "c15e3dbdf700641f972d3aae80a4c33f6e94307aad83a225ae80696cfef18d25"
+  },
+  {
+    "path": "icons/Icon_HV_XP.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_XP.png",
+    "bytes": 45473,
+    "sha256": "ac9a39d455c4482c7a44b923c4db08ac4a8199659de4a6e100691c5da81c624a"
+  },
+  {
+    "path": "icons/Icon_HV_Shield.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Shield.png",
+    "bytes": 26551,
+    "sha256": "9816c716948026bcd07cc7f869c7ae382c55ec0a5d266b6934dd56b0a830e20b"
+  },
+  {
+    "path": "icons/Icon_HV_Sword.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Sword.png",
+    "bytes": 9023,
+    "sha256": "0447d94b79918270251fe8808f43ee08bed75c18a9bdf38df39099407fb13e11"
+  },
+  {
+    "path": "icons/Icon_HV_Clan_War.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Clan_War.png",
+    "bytes": 62740,
+    "sha256": "47df545fd07f0fbc3a61526ee51ee0d38bbb7bdd1f9104478ce7e2c9d9ba1287"
+  },
+  {
+    "path": "icons/Icon_HV_Gold_Pass.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Gold_Pass.png",
+    "bytes": 65568,
+    "sha256": "868ea30f38c6ea92178fede984807ff77302b70cb2a9b6ef3f4c1c78310e210f"
+  },
+  {
+    "path": "icons/Icon_HV_Attack_Star.png",
+    "source": "https://assets.clashk.ing/icons/Icon_HV_Attack_Star.png",
+    "bytes": 19551,
+    "sha256": "7a57942ffce0abd05b88cac51c54b58ec8babb7ab074dfc3682bdee4054bb6bd"
+  },
+  {
+    "path": "fonts/SCmagic.ttf",
+    "source": "https://assets.clashk.ing/fonts/SCmagic.ttf",
+    "bytes": 119224,
+    "sha256": "414c22ee08f1742e701811a03853ff8ceb66ee94654bc1904ed2fa714918dcd0"
+  },
+  {
+    "path": "sceneries/jungle_scenery/music.ogg",
+    "source": "https://assets.clashk.ing/sceneries/jungle_scenery/music.ogg",
+    "bytes": 2580965,
+    "sha256": "798c80b4fb6bdfde4aa5201056b93e520035d2f670a835a6d101b1f9bf546f41"
+  },
+  {
+    "path": "helpers/builder's_apprentice.webp",
+    "source": "https://assets.clashk.ing/helpers/builder's_apprentice.webp",
+    "bytes": 10940,
+    "sha256": "023d97fee79b5778acc3412eec627e7cc011abed1aa6057149358295aabf0593"
+  },
+  {
+    "path": "spells/lightning_spell.webp",
+    "source": "https://assets.clashk.ing/spells/lightning_spell.webp",
+    "bytes": 20008,
+    "sha256": "855b9a9c7fbd15b727eb80609d47f771f19b57240c4e18be5a4077b4a5d81232"
+  },
+  {
+    "path": "spells/healing_spell.webp",
+    "source": "https://assets.clashk.ing/spells/healing_spell.webp",
+    "bytes": 13516,
+    "sha256": "b61e4b2eb8adf67b5277ee0979be77f966b6301663e77e439756de633c4b0b07"
+  },
+  {
+    "path": "spells/rage_spell.webp",
+    "source": "https://assets.clashk.ing/spells/rage_spell.webp",
+    "bytes": 12492,
+    "sha256": "3de51f404ff96523fdef2a582348525fad452a3ed44030ae7e5c74d269ce921d"
+  }
+]

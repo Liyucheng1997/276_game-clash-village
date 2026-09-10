@@ -113,7 +113,8 @@ const Main = {
     };
 
     canvas.addEventListener('mousedown', onDown);
-    canvas.addEventListener('mousemove', onMove);
+    // Continue a drag when the pointer crosses a HUD or building panel.
+    window.addEventListener('mousemove', e => { if (downPos || e.target === canvas) onMove(e); });
     window.addEventListener('mouseup', onUp);
     canvas.addEventListener('touchstart', (e) => { e.preventDefault(); onDown(e); }, { passive: false });
     canvas.addEventListener('touchmove', (e) => { e.preventDefault(); onMove(e); }, { passive: false });
